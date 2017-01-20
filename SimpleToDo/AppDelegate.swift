@@ -8,7 +8,7 @@
 
 import UIKit
 
-@UIApplicationMain
+@UIApplicationMain //이부분에를 실행하여라
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
